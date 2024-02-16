@@ -24,4 +24,3 @@ This Age Calculator app is built using HTML, CSS, and JavaScript. It allows user
 ## Credits
 - Developed by alikeayush
 
-## License
